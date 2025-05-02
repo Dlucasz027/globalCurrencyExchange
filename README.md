@@ -32,23 +32,30 @@ If you have any tips, suggestions or feedback, feel free to fork the project and
 ## Project Features
 
 ### Buttons and selectors
-1) Selecione a moeda de destino
-2) Selecione a moeda base
-3) Botão de conversão
-4) Lista de moedas disponiveis na aplicação
-![image](https://github.com/user-attachments/assets/ee854087-140b-45b0-815a-e77c23f7b0d3)
+1) Select the base currency
+2) Select the target currency
+3) Conversion button
+4) Conversion result
+5) List of currencies available in the application
+   
+![image](https://github.com/user-attachments/assets/2748a314-fa45-4eab-8df1-f972f37abb7e)
 
-
-### Conversion result
-![Conversion result](https://github.com/user-attachments/assets/30d6f2bd-a192-4eb7-bd1f-da0bf22746cc)
-
-### Project
-![Project](https://github.com/user-attachments/assets/6f6370a6-1676-4d41-b77f-d8e26af82d71)
+---
 
 ### Conversion list
-![Conversion list](https://github.com/user-attachments/assets/f05f10b9-b38e-4764-aa68-1f7962883649)
+![image](https://github.com/user-attachments/assets/c3c03303-dca6-4d35-b77c-8fd91f662d7b)
 
+---
 
+### Global currency exchange
+![image](https://github.com/user-attachments/assets/44a35db8-9b4c-42ac-aed2-2bdf5e8cd1f9)
+
+---
+
+### Zoom
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e8aa84ad-a803-44ea-8409-7512c29cf6ef" />
+</p>
 
 ---
 ---
